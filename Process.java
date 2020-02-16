@@ -67,6 +67,7 @@ public class Process {
 				dataOut += data + "\r\n";
 			}
 		}
+		System.out.println("SlotNo. RegistrationNo. Color");
 		System.out.println(dataOut);
 	}
 	
